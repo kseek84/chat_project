@@ -1,0 +1,13 @@
+#input-text {
+    width:80%;
+}
+
+#textarea {
+    width:100%;
+}
+.row > div:nth-child(odd) {
+    background-color: lightblue;
+}
+.row > div:nth-child(even) {
+    background-color: lightgreen;
+}
